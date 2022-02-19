@@ -2,7 +2,7 @@
 
 A simple project using [The Movie DB](https://www.themoviedb.org) based on Kotlin MVVM Repository architecture<br>
 
-![preview0](http://i.imgur.com/vMeULRt.gif)
+![image](https://github.com/faathirmashar/Placeholder/blob/master/application_demo.gif)
 
 ## How to build on your environment
 Add your [The Movie DB](https://www.themoviedb.org)'s API key in your `build.gradle (Module: MovieDB.app)` file. In buildTypes{} add this:
