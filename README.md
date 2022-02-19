@@ -11,7 +11,7 @@ debug {
             buildConfigField("String", "API_KEY", '"?api_key=YOUR_API_KEY"')
             buildConfigField("String", "IMG_URL", '"https://www.themoviedb.org/t/p/w600_and_h900_bestv2"')
             buildConfigField("String", "BASE_URL", '"https://api.themoviedb.org"')
-        }
+}
 ```
 
 ## Tech stack & Open-source libraries
