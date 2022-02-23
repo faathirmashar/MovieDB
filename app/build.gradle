@@ -25,7 +25,7 @@ android {
         }
 
         debug {
-            buildConfigField("String", "API_KEY", '"?api_key=172259b99b7d25555b30b775fb57765c"')
+            buildConfigField("String", "API_KEY", '"?api_key=YOUR API KEY"')
             buildConfigField("String", "IMG_URL", '"https://www.themoviedb.org/t/p/w600_and_h900_bestv2"')
             buildConfigField("String", "BASE_URL", '"https://api.themoviedb.org"')
         }
